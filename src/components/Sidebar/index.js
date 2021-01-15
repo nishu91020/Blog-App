@@ -4,7 +4,18 @@ import Card from '../UI/Card';
 
 const Sidebar=()=>{
     return(
-        <Card style={{width:'25%'}}>Sidebar this is..</Card>
+        <div className="sideBarContainer">
+        <Card style={{marginBottom:'2px'}}>
+            <div className="cardHeader">
+                <span>About Us</span>
+            </div>
+        </Card>
+        <Card style={{marginBottom:'2px'}}>
+            <div className="cardHeader">
+                <span>Social Network</span>
+            </div>
+        </Card>
+        </div>
     );
 }
 export default Sidebar;

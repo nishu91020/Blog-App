@@ -9,7 +9,7 @@ const BlogPost=()=>{
             <span className="category">Featured</span>
             <h1 className="postTitle">Work life balance</h1>
             <span className="postedby">19 January 2020,19:30pm</span>
-            <div className="postimage">
+            <div className="postimageContainer">
                 <img src={require('../../images/library.jpg')} alt="library"/>
             </div>
             </div>

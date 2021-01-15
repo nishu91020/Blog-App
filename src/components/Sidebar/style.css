@@ -1,4 +1,13 @@
-.sideBar{
+.sideBarContainer{
     width:27%;
     background: #fff;
+}
+.cardHeader{
+    text-transform: uppercase;
+    font-size:15px;
+    text-align: center;
+    paddind:10px 0;
+    box-sizing:border-box;
+    letter-spacing: 2px;
+    color:#565673;
 }
