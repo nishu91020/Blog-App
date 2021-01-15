@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "Fitness Mantra To Live Fit Life",
+            "slug": "fitness-mantra-to-live-fit-life",
+            "postedOn": "July 21, 2016",
+            "author": "Faiz Khan",
+            "blogImage": "fitness-blog-post.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim. Risus sed vulputate odio ut enim blandit volutpat maecenas. Sed arcu non odio euismod. Id diam maecenas ultricies mi eget mauris. Vulputate enim nulla aliquet porttitor lacus luctus accumsan. Eleifend donec pretium vulputate sapien nec sagittis aliquam. Integer vitae justo eget magna fermentum. Morbi tristique senectus et netus et malesuada fames. Mi ipsum faucibus vitae aliquet nec ullamcorper. Semper eget duis at tellus at. Arcu risus quis varius quam. Tristique senectus et netus et malesuada fames ac turpis egestas. Sed cras ornare arcu dui vivamus arcu felis bibendum."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Simple",
+            "blogTitle": "Beautiful & Special Moment",
+            "slug": "beautiful-and-special-moment",
+            "postedOn": "May 03, 2016",
+            "author": "Rizwan Khan",
+            "blogImage": "beautiful-&-simple.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim. Risus sed vulputate odio ut enim blandit volutpat maecenas. Sed arcu non odio euismod. Id diam maecenas ultricies mi eget mauris. Vulputate enim nulla aliquet porttitor lacus luctus accumsan. Eleifend donec pretium vulputate sapien nec sagittis aliquam. Integer vitae justo eget magna fermentum. Morbi tristique senectus et netus et malesuada fames. Mi ipsum faucibus vitae aliquet nec ullamcorper. Semper eget duis at tellus at. Arcu risus quis varius quam. Tristique senectus et netus et malesuada fames ac turpis egestas. Sed cras ornare arcu dui vivamus arcu felis bibendum."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Simple",
+            "blogTitle": "Beauti lies within special",
+            "slug": "beauti-lies-within-special",
+            "postedOn": "Apr 02, 2017",
+            "author": "Hasina Shaikh",
+            "blogImage": "affection-baby-baby-girl-beautiful-377058.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim. Risus sed vulputate odio ut enim blandit volutpat maecenas. Sed arcu non odio euismod. Id diam maecenas ultricies mi eget mauris. Vulputate enim nulla aliquet porttitor lacus luctus accumsan. Eleifend donec pretium vulputate sapien nec sagittis aliquam. Integer vitae justo eget magna fermentum. Morbi tristique senectus et netus et malesuada fames. Mi ipsum faucibus vitae aliquet nec ullamcorper. Semper eget duis at tellus at. Arcu risus quis varius quam. Tristique senectus et netus et malesuada fames ac turpis egestas. Sed cras ornare arcu dui vivamus arcu felis bibendum."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "Sliding My Way To Life",
+            "slug": "sliding-my-way-to-life",
+            "postedOn": "Jan 02, 2019",
+            "author": "Rizwan Khan",
+            "blogImage": "cestovat-chladny-dno-jednoduchost-2868847.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim. Risus sed vulputate odio ut enim blandit volutpat maecenas. Sed arcu non odio euismod. Id diam maecenas ultricies mi eget mauris. Vulputate enim nulla aliquet porttitor lacus luctus accumsan. Eleifend donec pretium vulputate sapien nec sagittis aliquam. Integer vitae justo eget magna fermentum. Morbi tristique senectus et netus et malesuada fames. Mi ipsum faucibus vitae aliquet nec ullamcorper. Semper eget duis at tellus at. Arcu risus quis varius quam. Tristique senectus et netus et malesuada fames ac turpis egestas. Sed cras ornare arcu dui vivamus arcu felis bibendum."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Fashion",
+            "blogTitle": "Memories From Last Summer",
+            "slug": "memories-from-last-summer",
+            "postedOn": "Feb 21, 2018",
+            "author": "Buland Khan",
+            "blogImage": "memories-from.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim. Risus sed vulputate odio ut enim blandit volutpat maecenas. Sed arcu non odio euismod. Id diam maecenas ultricies mi eget mauris. Vulputate enim nulla aliquet porttitor lacus luctus accumsan. Eleifend donec pretium vulputate sapien nec sagittis aliquam. Integer vitae justo eget magna fermentum. Morbi tristique senectus et netus et malesuada fames. Mi ipsum faucibus vitae aliquet nec ullamcorper. Semper eget duis at tellus at. Arcu risus quis varius quam. Tristique senectus et netus et malesuada fames ac turpis egestas. Sed cras ornare arcu dui vivamus arcu felis bibendum."
+        }
+    ]
+}
