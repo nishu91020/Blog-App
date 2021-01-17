@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import './style.css';
 import {NavLink} from 'react-router-dom';
-
-
+import searchicon from '../../Assets/icons/search.png';
 const Navbar=(props)=>{
 
     const[search,setSearch]=useState(false);
@@ -25,7 +24,7 @@ const Navbar=(props)=>{
         <div className="search">
         <form onSubmit={submitSearch}>
         <input type="text" className={searchClass} placeholder="Search"/>
-        <img onClick={openSearch} className="searchicon" src={require('../../Assets/icons/search.png')} alt="search"/>
+        <img onClick={openSearch} className="searchicon" alt="search" src={searchicon} />
         </form>
         </div>
         </div>

@@ -1,13 +1,49 @@
 .sideBarContainer{
     width:27%;
-    background: #fff;
 }
 .cardHeader{
     text-transform: uppercase;
-    font-size:15px;
+    font-size:20px;
     text-align: center;
-    paddind:10px 0;
     box-sizing:border-box;
     letter-spacing: 2px;
+    color:#333;
+}
+.profileimage{
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.profileimage img{
+    margin: 20px 0;
+    max-width: 100%;
+    max-height: 100%;
+
+}
+.text{
+    font-size:15px;
     color:#565673;
+    font-weight:300;
+}
+.RecentPosts{
+    margin:20px 0;
+}
+.recentPost {
+    text-align: center;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
+.recentPost h3{
+    font-weight: 500;
+    color:#6c6c6c;
+    letter-spacing: 1px;
+    font-size:14px;
+   
+}
+.recentPost span{
+    font-size: 14px;
+    font-weight: 500;
+    color:#6c6c6c;
+    margin:0;
+    letter-spacing: 1px;
+
 }
