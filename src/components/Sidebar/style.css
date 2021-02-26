@@ -28,11 +28,13 @@
     margin:20px 0;
 }
 .recentPost {
+    
     text-align: center;
     border-bottom: 1px solid #eee;
     margin-bottom: 10px;
 }
 .recentPost h3{
+    
     font-weight: 500;
     color:#6c6c6c;
     letter-spacing: 1px;

@@ -6,7 +6,7 @@ import blogPost from '../../data/blog.json';
 const BlogPost=(props)=>{
 
     const [post,setPost]=useState({});
-    const[postid,setPostid]=useState('');
+    const[postid,setPostid]=useState({});
     useEffect(()=>{
         const postid=props.match.params.postid;
         const post=blogPost.data.find(post=>post.id==postid);
@@ -18,7 +18,7 @@ const BlogPost=(props)=>{
         <div className="blogPostContainer">
         <Card >
             <div className="blogHeader">
-            <span className="category">Featured</span>
+            <span className="category">{post.blogCategorry}</span>
             <h1 className="postTitle">{post.blogTitle}</h1>
             <span className="postedby">{post.postedOn},{post.author}</span>
             </div>

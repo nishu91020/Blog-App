@@ -1,5 +1,9 @@
 .blogPostContainer{
+    
     width:70%;
+}
+.postContainer{
+    padding: 2.2%;
 }
 .blogHeader{
     text-align:center;
@@ -25,6 +29,7 @@
     color:#6c6c6c;
 }
 .postimageContainer{
+    
     width:100%;
     padding:10px;
     box-sizing: border-box;
