@@ -14,7 +14,7 @@ const Sidebar=(props)=>{
     },[posts]);
 
     return(
-        <div className="sideBarContainer" >
+        <div className="sideBarContainer" style={{width:props.width}}>
         <Card style={{marginBottom:'20px',padding:'30px',boxSizing:'border-box'}}>
             <div className="cardHeader">
                 <span>About Us</span>

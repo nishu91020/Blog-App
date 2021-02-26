@@ -18,7 +18,7 @@ const BlogPost=(props)=>{
         <div className="blogPostContainer">
         <Card >
             <div className="blogHeader">
-            <span className="category">{post.blogCategorry}</span>
+            <span className="category">{post.blogCategory}</span>
             <h1 className="postTitle">{post.blogTitle}</h1>
             <span className="postedby">{post.postedOn},{post.author}</span>
             </div>
